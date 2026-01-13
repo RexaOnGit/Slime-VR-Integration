@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhl7t5kghom22"]
+
+[ext_resource type="Script" uid="uid://cu6ni2ux81iw8" path="res://addons/SlimeVRIntegration/SlimeVRInterface.cs" id="1_o03xg"]
+
+[node name="SlimeVRInterface" type="Node"]
+script = ExtResource("1_o03xg")
+metadata/_custom_type_script = "uid://cu6ni2ux81iw8"
